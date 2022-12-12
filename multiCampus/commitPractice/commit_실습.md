@@ -24,5 +24,5 @@
    - 이유 : Working Directory, Staging Area, Repository 이다.
 
 5. Commit ID는 중복 가능하다. (맞으면 O, 틀리면 X)
-   - 답 :
-   - 이유 :
+   - 답 : X
+   - 이유 : Git 에서 커밋 메세지가 가지고 있는 고유한 ID. 따라서 중복 될 수 없다.
